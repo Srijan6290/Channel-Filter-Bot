@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
+API_ID       = "27956463"
+API_HASH     = "ab3cc18e5286dd5761e433de3d3e7b3c"
+BOT_TOKEN    = "8132459637:AAGNDIfB-Q7GsgyC_to5FfBr2lz1oK8aG24"
+SESSION      = "BQGqlO8AJhZbPMNLjqJHPc-GvxTtrJZ0qr5rB6Bf5bFafNRBUCzWpnn2y7HcspDSKTM0GVIETKqmqo5w1fhrTzT5FqoI7ZWKqmxZYCLmZ4YbC5-UWKN9sBLNQIuoF1j1VKw1HrRGq2NWs2K-ch2UZEQ8X4y3zEzQ1pUeQae7A2Ia2_Hy3SiFQNzOZeY0aB7ZwyD_ufru3hwd1zRr6ecd4fH0Boww822MD2LXACJADlrrMgVmebOMwBp2dNBVRAx-jw3aYlWa2RrL32Ot4ISXhcE-TAmVf_tnck_JFJaAW9DovmXNEVXy_QceXyU7Ikq7B1vMKWhvd5Dn7uok7-vUhqBC0i52XQAAAAGiWuaFAA"
+DATABASE_URI = "mongodb+srv://devs628162:7gd7ciiq2oMyhdt4@cluster0.fjnhfvz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+LOG_CHANNEL  = -1002647496452
+ADMIN        = 7018833541
 CHANNEL      = "@GreyMatter_Bots"
